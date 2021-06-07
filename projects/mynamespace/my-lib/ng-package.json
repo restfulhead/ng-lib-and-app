@@ -1,7 +1,7 @@
 {
   "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
   "dest": "../../../dist/mynamespace/my-lib",
-  "assets": ["./assets/**/*.*", "./styles"],
+  "assets": ["./styles"],
   "lib": {
     "styleIncludePaths": [
       "./styles"
